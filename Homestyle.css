@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header.hero {
+  background-color: #007bff;
+  color: #ffffff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #ffffff;
+  color: #007bff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.cta-button:hover {
+  background-color: #f0f0f0;
+}
+
+section.features {
+  text-align: center;
+  padding: 50px 0;
+  background-color: #f0f0f0;
+}
+
+section.features h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+section.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+section.features li {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+section.cta {
+  text-align: center;
+  padding: 100px 0;
+}
+
+section.cta h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+section.cta p {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
